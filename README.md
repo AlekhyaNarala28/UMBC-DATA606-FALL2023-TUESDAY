@@ -1,4 +1,5 @@
 # RESUME
+<img src="https://github.com/lavanyamogulla/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Alekhya_Headshot.jpg" width="200" height="200" alt="My Headshot">
 
 # ALEKHYA NARALA  
 Halethorpe, Maryland  
