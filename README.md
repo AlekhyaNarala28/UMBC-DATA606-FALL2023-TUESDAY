@@ -12,7 +12,7 @@ Experienced data scientist with a passion for solving complex problems and a tra
 ## ACADEMIC BACKGROUND  
 Masters in Data Science (Expected graduation May 2024)  
 University of Maryland Baltimore County  
-Current CGPA: 3.7/4 (till second semester) 
+Current CGPA: 3.7/4 (till the second semester) 
  
 Bachelor of Technology in Information Technology (2018-2022)  
 Malla Reddy Engineering College, Hyderabad, India  
@@ -47,7 +47,7 @@ CGPA: 8.32/10
 - Used Twitter and Wikipedia data to achieve over 90% accuracy in hate speech detection and over 80% in personal attacks.
 - Explored various ML algorithms, highlighting NLP's significance and Word2Vec's potential for detection. Contributed to a safer online environment by addressing cyberbullying.
 
-#### Starbucks offers analytics using AzureML & Databricks (May 2022)
+#### Starbucks offers analytics using AzureML & Databricks (May 2023)
 - Conducted a Starbucks data analytics project using AzureML and Databricks to assess customer response to BOGO offers on the mobile app.
 - Gathered, transformed, and analyzed data from multiple sources using PySpark, with visualization in Tableau.
 - Identified demographic groups with high BOGO success rates based on age, transaction history, income, and membership duration, achieving a 50% success rate. Findings can guide targeted marketing and reduce customer churn.
