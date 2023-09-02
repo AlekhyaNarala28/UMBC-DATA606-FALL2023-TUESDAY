@@ -1,5 +1,5 @@
 # RESUME
-<img src="https://github.com/AlekhyaNarala28/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Alekhya_Headshot.jpeg" width="200" height="200" alt="My Headshot">
+<img src="https://github.com/AlekhyaNarala28/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Alekhya_Headshot.jpeg" width="150" height="200" alt="My Headshot">
 
 # ALEKHYA NARALA  
 Halethorpe, Maryland  
