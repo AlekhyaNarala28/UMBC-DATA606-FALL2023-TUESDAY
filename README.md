@@ -42,8 +42,8 @@ CGPA: 8.32/10
 - Additionally, sentiment analysis is used to identify whether tweets are neutral, negative, or positively biased toward the topic at hand. Additionally, a PM-Chart, bar diagram, and scatter plot were used to graphically represent the sentiment.
 
 ## TECHNICAL SKILLS  
-PROGRAMMING LANGUAGES - PYTHON, C, JAVA, DBMS, HTML.  
-SKILLS- Proficient in MS Word, PowerPoint, Excel. 
+- PROGRAMMING LANGUAGES - PYTHON, C, JAVA, DBMS, HTML.  
+- SKILLS- Proficient in MS Word, PowerPoint, Excel. 
   
 ## CERTIFICATIONS  
 -	Internship certificate by Scube Future Technologies (May 2019)  
